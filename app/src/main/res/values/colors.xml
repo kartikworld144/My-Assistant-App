@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF2212</color>
+    <color name="purple_700">#389B3C</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="launcher_background">#00FFFF</color>
+
+
+    <color name="text_color">#FFFFFF</color>
+    <color name="background_color">#673AB7</color>
+    <color name="background">#389B3C</color>
+    <color name="shadow_color_top">#3F51B5</color>
+    <color name="shadow_color_bottom">#FF1100</color>
+    <color name="slider_title_background">#6D000000</color>
+    <color name="img_background">#B25AA800</color>
+    <color name="thankYou_title">#FFFFFF</color>
+    <color name="thankYou_des">#FFEB3B</color>
+    <color name="gray">#BEBEBE</color>
+    <color name="transparent">#5BF01414</color>
+    <color name="itemTextColor">#707070</color>
+
+
+
+    <color name="primary">#2196F3</color>
+    <color name="secondary">#FF03DAC5</color>
+    <color name="message">#125FDD</color>
+
+    <color name="night_mode">#77008C</color>
+    <color name="notifications">#13FF76</color>
+    <color name="private_account">#EFFFBF00</color>
+    <color name="security">#EA84FB</color>
+
+
+</resources>
